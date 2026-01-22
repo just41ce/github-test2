@@ -1,4 +1,5 @@
-test 1 main
+
+test1
 test2
-merge test
+merge test -new
 
